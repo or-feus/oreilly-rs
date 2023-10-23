@@ -1,2 +1,6 @@
 # Project exclude paths
 /target/
+*/target
+*/Cargo.lock
+Cargo.lock
+.gitignore

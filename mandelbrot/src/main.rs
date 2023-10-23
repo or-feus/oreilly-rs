@@ -4,6 +4,7 @@ use image::ColorType;
 use image::png::PNGEncoder;
 use std::fs::File;
 
+
 fn main() {
     println!("Hello, world!");
 }
